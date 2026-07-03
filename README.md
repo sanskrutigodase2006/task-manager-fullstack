@@ -186,7 +186,7 @@ Register a new account and start managing your tasks.
 
 ## Forgot Password
 
-![Forgot Password](screenshots/Forgot Password.png)
+![Forgot Password](screenshots/ForgotPassword.png)
 
 ---
 
@@ -198,7 +198,7 @@ Register a new account and start managing your tasks.
 
 ## Task List
 
-![Task List](screenshots/Task List.png)
+![Task List](screenshots/TaskList.png)
 
 ---
 
