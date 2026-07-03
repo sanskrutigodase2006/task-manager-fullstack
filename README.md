@@ -168,13 +168,13 @@ Register a new account and start managing your tasks.
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ---
 
 ## Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ---
 
@@ -192,7 +192,7 @@ Register a new account and start managing your tasks.
 
 ## Profile Page
 
-![Profile](screenshots/profile.png)
+![Profile](screenshots/Profile.png)
 
 ---
 
